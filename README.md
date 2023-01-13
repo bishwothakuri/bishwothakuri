@@ -1,5 +1,5 @@
  :wave:	Hi, I'm Bishow, and welcome to my GitHub bio.
-- :telescope: Full Stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at NHDP.
+- :telescope: Softwarer Engineer by day, code wizard by night <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :seedling: I’m currently learning MERN stack.
 
 
