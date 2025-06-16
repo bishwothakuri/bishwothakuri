@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cloudless Resource Monitoring System.<br>👯 I’m looking to collaborate on Blockchain project.<br>🌱 I’m currently learning Blockchain.<br>💬 Ask me about Django, Postgres, Docker, Kubernetes<br> 📝 I regularly write articles on <a href="https://www.devcolumn.com/">Devcolumn</a> to deepen my understanding of new topics and share my insights with others.<br>- 📫 How to reach me: mebishwo.shah@gmail.com
+🔭 I’m currently working on Adaptive Incentive Mechanism with Crowd-Sensing.<br>👯 I’m looking to collaborate on Blockchain project.<br>🌱 I’m currently learning Blockchain.<br>💬 Ask me about Django, Postgres, Docker, Kubernetes<br> 📝 I regularly write articles on <a href="https://www.devcolumn.com/">Devcolumn</a> to deepen my understanding of new topics and share my insights with others.<br>- 📫 How to reach me: mebishwo.shah@gmail.com
 
 
 ## 🌐 Socials:
